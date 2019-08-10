@@ -29,6 +29,7 @@ export default {
     // home_list
         let homeList=await home_list();
         this.reco_list=homeList.reco_list;
+        // console.log(this.reco_list,111)
     }
 }
 </script>

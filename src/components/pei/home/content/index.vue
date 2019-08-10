@@ -1,12 +1,10 @@
 <template>
     <div class="content_con">
-        <pei-BScroll>
         <div class="content_conbox">
             <Banner/>
             <List/>
             <Hobby/>
         </div>
-        </pei-BScroll>
     </div>
 </template>
 <script>
